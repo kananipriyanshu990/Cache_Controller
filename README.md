@@ -1,4 +1,4 @@
-# Custom RTL Cache Controller Design
+# Cache Controller Design
 
 A complete RTL implementation of a **direct-mapped cache controller** designed in **Verilog HDL**.
 
@@ -330,27 +330,7 @@ Metadata Update
 ---
 
 # Tools Used
-
-- Verilog HDL
-- Xilinx Vivado Design Suite
-- RTL Simulation
-- GitHub
-
----
-
-# Future Improvements
-
-Possible extensions:
-
-- Parameterized cache size
-- Configurable associativity
-- Burst memory transfers
-- Pipelined cache access
-- AXI memory interface
-- Replacement policies for set-associative caches
-- Integration with a custom CPU core
-
----
+- Xilinx Vivado
 
 # Conclusion
 
